@@ -1,0 +1,2655 @@
+[
+    {
+        "name": "retrieve",
+        "trans": ["[rɪ'triːv] vt. 重新得到，取回；挽回；检索"]
+    },
+    {
+        "name": "refrain",
+        "trans": ["[rɪ'freɪn] vi. 节制，避免，制止 n. （诗的）叠句；经常重复的评价或抱怨"]
+    },
+    {
+        "name": "deem",
+        "trans": ["[diːm] vi./vt. 认为，相信"]
+    },
+    {
+        "name": "diminish",
+        "trans": ["[dɪ'mɪnɪʃ] vi./vt. （使）缩小，减少，递减；贬低，轻视"]
+    },
+    {
+        "name": "extract",
+        "trans": ["[ɪks'trækt] vt. 拔出；摘录；用力取出；提炼 n. 拔出，摘录，选取；抽取物"]
+    },
+    {
+        "name": "fraud",
+        "trans": ["[frɔːd] n. 欺诈，诈骗；骗子；假货"]
+    },
+    {
+        "name": "incentive",
+        "trans": ["[ɪn'sentɪv] n. 刺激；动力；鼓励；诱因；动机"]
+    },
+    {
+        "name": "migrate",
+        "trans": ["[maɪ'greɪt; 'maɪgreɪt] vi. 迁移，移居（国外）；移动，转移"]
+    },
+    {
+        "name": "transition",
+        "trans": ["[trænˈzɪʃn] n. 过渡，转变，变迁; [语]转换; [乐]变调;"]
+    },
+    {
+        "name": "alien",
+        "trans": ["['eɪljən] n. 外侨，外国人；外星人 a. 外国的；相异的"]
+    },
+    {
+        "name": "chronic",
+        "trans": ["['krɒnɪk] a. 难以治愈的；长期病患的；积习难改的；严重的，坏的"]
+    },
+    {
+        "name": "entrepreneur",
+        "trans": ["[,ɒntrəprə'nɜː] n. 企业家，主办人"]
+    },
+    {
+        "name": "illiterate",
+        "trans": ["[ɪ'lɪtərɪt] a. 文盲的，未受教育的；不通顺的；了解不多的 n. 文盲"]
+    },
+    {
+        "name": "nutrition",
+        "trans": ["[njuː'trɪʃən] n. 营养，滋养；营养的补给；营养学"]
+    },
+    {
+        "name": "prestige",
+        "trans": ["[pres'tiːʒ; -'tiːdʒ] n. 声望，威望，威信"]
+    },
+    {
+        "name": "vulnerable",
+        "trans": ["['vʌlnərəb(ə)l] a. 易受攻击的，脆弱的"]
+    },
+    {
+        "name": "potential",
+        "trans": ["[pə'tenʃ(ə)l] a. 潜在的，可能的 n. 潜能，潜力"]
+    },
+    {
+        "name": "decline",
+        "trans": ["[dɪ'klaɪn] vi. 减少，下降，衰落 n. 下降，衰落；斜面，倾斜"]
+    },
+    {
+        "name": "maintain",
+        "trans": ["[men'teɪn] vt. 维修；保留；供养；坚持，主张；支持"]
+    },
+    {
+        "name": "prevent",
+        "trans": ["[prɪ'vent] vt. 预防，防止 vt./vi. 阻止，制止，妨碍"]
+    },
+    {
+        "name": "conduct",
+        "trans": ["['kɒndʌkt; -dəkt] n. 行为；管理 vt. 引导；组织； vt./n. 举止，表现"]
+    },
+    {
+        "name": "current",
+        "trans": ["['kʌrənt] n. 电流，洋流；潮流 a. 当前的；流通的，通用的"]
+    },
+    {
+        "name": "decrease",
+        "trans": ["[diː'kriːs] vi./vt. （使）减少，降低 n. 减少，减小；减少量"]
+    },
+    {
+        "name": "budget",
+        "trans": ["['bʌdʒɪt] n. 预算 vt. 把…编入预算"]
+    },
+    {
+        "name": "conflict",
+        "trans": ["['kɒnflɪkt] n. 战斗，斗争；抵触，冲突；争论"]
+    },
+    {
+        "name": "depend",
+        "trans": ["[dɪ'pend] vi. 取决于，依靠，信赖，相信"]
+    },
+    {
+        "name": "enhance",
+        "trans": ["[ɪn'hɑːns] vt. 提高，增强"]
+    },
+    {
+        "name": "ensure",
+        "trans": ["[ɪn'ʃʊə] vt. 确保，保证；使安全"]
+    },
+    {
+        "name": "regard",
+        "trans": ["[rɪ'gɑːd] vt./vi. 注视；把…看作为 n. 关注"]
+    },
+    {
+        "name": "alter",
+        "trans": ["['ɔːltə] vt. 改变，更改；改做（衣服） vi. 改变，变化"]
+    },
+    {
+        "name": "alternative",
+        "trans": ["[ɔːl'tɜːnətɪv] n. 二选一；取舍 a. 可供替代的；非传统的"]
+    },
+    {
+        "name": "display",
+        "trans": ["[dɪ'spleɪ] vt./n. 陈列，展览；显示(器)；表演；表露"]
+    },
+    {
+        "name": "exaggerate",
+        "trans": ["[ɪg'zædʒəreɪt] vi./vt. 夸大，夸张"]
+    },
+    {
+        "name": "guarantee",
+        "trans": ["[,gærən'tiː] n. 担保；担保人；保修单 vt. 保证；提供保修单；使必然发生"]
+    },
+    {
+        "name": "identify",
+        "trans": ["[aɪ'dentɪfaɪ] vt. 确认；鉴别；与…有联系"]
+    },
+    {
+        "name": "impose",
+        "trans": ["[ɪm'pəʊz] vt. 征（税）；加·····于；把…强加于；把…硬塞给 vi. 利用，占便宜"]
+    },
+    {
+        "name": "notion",
+        "trans": ["['nəʊʃən] n. 概念；想法，意念，看法，观点"]
+    },
+    {
+        "name": "profession",
+        "trans": ["[prə'feʃən] n. 职业，专业；(the profession)业内人士"]
+    },
+    {
+        "name": "promise",
+        "trans": ["['prɒmɪs] vt./vi. 允许，答应 n. 承诺；希望，出息"]
+    },
+    {
+        "name": "responsible",
+        "trans": ["[rɪs'pɒnsəbl] a. 承担责任的，负责的；（某人）应受责备；责任重大的"]
+    },
+    {
+        "name": "revenue",
+        "trans": ["['revɪnjuː] n. 财政收入，税收"]
+    },
+    {
+        "name": "sensitive",
+        "trans": ["['sensɪtɪv] a. 敏感的；灵敏的；体贴的"]
+    },
+    {
+        "name": "shift",
+        "trans": ["[ʃɪft] vi./vt. 转移；改变 n. 转变；(轮)班"]
+    },
+    {
+        "name": "attach",
+        "trans": ["[ə'tætʃ] vt. 连接；使成为一部分；使依恋"]
+    },
+    {
+        "name": "attribute",
+        "trans": ["[ə'trɪbjuːt] vt. 归因于；认为…属于 n. 属性，品质，特征"]
+    },
+    {
+        "name": "blame",
+        "trans": ["[bleɪm] vt. 责备；把…归咎于 n. 责任，过错；责备"]
+    },
+    {
+        "name": "combine",
+        "trans": ["[kəm'baɪn] n. 集团，联合企业 vt./vi. （使）联合"]
+    },
+    {
+        "name": "crash",
+        "trans": ["[kræʃ] vt./vi./n. 碰撞，坠落；失败，崩溃 n. 爆裂声"]
+    },
+    {
+        "name": "dominant",
+        "trans": ["['dɒmɪnənt] a. 支配的，统治的，占优势的；显著的"]
+    },
+    {
+        "name": "estimate",
+        "trans": ["['estɪmeɪt] vi./vt./n. 估计，估价；评估"]
+    },
+    {
+        "name": "extend",
+        "trans": ["[ɪks'tend] vi./vt. 延长，延伸；扩大，扩充；给予；提供；估价"]
+    },
+    {
+        "name": "grant",
+        "trans": ["[grɑːnt] vi./vt. 授予；承认；同意 n. 授予物"]
+    },
+    {
+        "name": "imply",
+        "trans": ["[ɪm'plaɪ] vt. 意指，含…意思，暗示；说明，表明；（思想，行为等）必然包含"]
+    },
+    {
+        "name": "prospect",
+        "trans": ["['prɒspekt] n. 景色；前景，前途；展望，设想；（竞赛中的）有望获胜者"]
+    },
+    {
+        "name": "routine",
+        "trans": ["[ruː'tiːn] n. 例行公事，常规；乏味 a. 常规的，例行的；乏味的"]
+    },
+    {
+        "name": "scale",
+        "trans": ["[skeɪl] n. 刻度；天平，比例；规模 vt. 攀登"]
+    },
+    {
+        "name": "transaction",
+        "trans": ["[træn'zækʃən] n. 办理，处理；交易；事务；(pl.)会报，学报"]
+    },
+    {
+        "name": "transfer",
+        "trans": ["[træns'fɜː] vt./n. 转移；转换，转变；迁移；转职；转让；换乘 n. 已转移的人或东西；换乘票"]
+    },
+    {
+        "name": "account",
+        "trans": ["[ə'kaʊnt] n. 叙述，说明；解释，理由；赊欠账；账目 vi. 说明，解释；（数量、比例上）占"]
+    },
+    {
+        "name": "acknowledge",
+        "trans": ["[ək'nɒlɪdʒ] vt. 承认；认为；接受；告知（信件等的）收到"]
+    },
+    {
+        "name": "contrary",
+        "trans": ["['kɒntrərɪ] a. 相反的，截然不同的 n. 反对，矛盾"]
+    },
+    {
+        "name": "contrast",
+        "trans": ["['kɒntræst] n. 对比，对照 vi. 形成对比，显出明显差异 vt. 把…与…对比"]
+    },
+    {
+        "name": "controversy",
+        "trans": ["['kɒntrəvɜːsɪ] n. （公开的）争论，辩论，争吵"]
+    },
+    {
+        "name": "deliver",
+        "trans": ["[dɪ'lɪvə] vi./vt. 交付，递送；表达；释放；接生"]
+    },
+    {
+        "name": "disorder",
+        "trans": ["[dɪs'ɔːdə] n. 混乱，杂乱；骚乱 vt. 弄乱"]
+    },
+    {
+        "name": "economics",
+        "trans": ["[ˌiːkə'nɒmɪks; ,ekə-] n. 经济学，经济情况"]
+    },
+    {
+        "name": "flexible",
+        "trans": ["['fleksəbl] a. 柔韧的，易弯曲的；灵活的，能变形的，可变通的"]
+    },
+    {
+        "name": "generate",
+        "trans": ["['dʒenə,reɪt] vt. 产生，发生；生殖；创造；引起"]
+    },
+    {
+        "name": "insight",
+        "trans": ["['ɪnsaɪt] n. 洞察力，见识，洞悉；深刻的见解"]
+    },
+    {
+        "name": "inspire",
+        "trans": ["[ɪn'spaɪə] vt. 鼓舞，激起，激励；使产生灵感；使产生（感觉或情感）"]
+    },
+    {
+        "name": "monitor",
+        "trans": ["['mɒnɪtə] n. 班长；监听器，监视器 vt. 监控，监测"]
+    },
+    {
+        "name": "plunge",
+        "trans": ["[plʌndʒ] vt. 猛冲，突然跌落 n. 猛冲，投落；跳水"]
+    },
+    {
+        "name": "previous",
+        "trans": ["['priːvjəs] a. 先前的，以前的"]
+    },
+    {
+        "name": "privilege",
+        "trans": ["['prɪvɪlɪdʒ] n. 特权，优惠；荣耀，荣幸 vt. 给予优惠，给予特权"]
+    },
+    {
+        "name": "regardless",
+        "trans": ["[rɪ'gɑːdlɪs] a./ad. 不管…的，不顾…的，不注意的"]
+    },
+    {
+        "name": "reserve",
+        "trans": ["[rɪ'zɜːv] n. 储备(物)，储备金；缄默；自然保护区；保留地；替补队，底价 vt. 保留，拥有，保持；储备；预定"]
+    },
+    {
+        "name": "reverse",
+        "trans": ["[rɪ'vɜːs] n. 相反；背面 vi./vt. 颠倒；倒车；交换；归还 a. 相反的；颠倒的"]
+    },
+    {
+        "name": "submit",
+        "trans": ["[səb'mɪt] vi. 屈服；提交，呈递 vt. 屈服于；使服从；提供；呈交"]
+    },
+    {
+        "name": "summit",
+        "trans": ["['sʌmɪt] n. 顶峰；最高级会议；最高阶层"]
+    },
+    {
+        "name": "target",
+        "trans": ["['tɑːgɪt] n. 目标；靶子；对象 vt. 瞄准；把…作为目标"]
+    },
+    {
+        "name": "temple",
+        "trans": ["['templ] n. 庙宇，神殿；太阳穴"]
+    },
+    {
+        "name": "tourist",
+        "trans": ["['tʊərɪst] n. 旅游者，观光者"]
+    },
+    {
+        "name": "unique",
+        "trans": ["[juː'niːk] a. 独一无二的；独特的"]
+    },
+    {
+        "name": "salary",
+        "trans": ["['sælərɪ] n. 薪金，薪水"]
+    },
+    {
+        "name": "secretary",
+        "trans": ["['sekrətrɪ] n. 秘书，书记；部长，大臣"]
+    },
+    {
+        "name": "trend",
+        "trans": ["[trend] n. 倾向，趋势 vi. 伸向，倾向"]
+    },
+    {
+        "name": "accelerate",
+        "trans": ["[æk'seləreɪt] v. 使加速，使增速，促进 vi. 加快，增加"]
+    },
+    {
+        "name": "alert",
+        "trans": ["[ə'lɜːt] a. 机警的；机灵的 vt. 使…警觉 n. 警惕；提醒"]
+    },
+    {
+        "name": "appropriate",
+        "trans": ["[ə'prəʊprɪɪt] a. 适当的，恰当的；特有的"]
+    },
+    {
+        "name": "capacity",
+        "trans": ["[kə'pæsɪtɪ] n. 容量；能量，才能"]
+    },
+    {
+        "name": "compel",
+        "trans": ["[kəm'pel] vt. 强迫，迫使；使必须；引起，激起"]
+    },
+    {
+        "name": "complete",
+        "trans": ["[kəm'pliːt] a. 完全的，圆满的 vt. 完成，结束；填写（表格）"]
+    },
+    {
+        "name": "constitute",
+        "trans": ["['kɒnstɪtjuːt] vt. 组成，构成，形成；（合法或正式地）成立，设立，建立，任命"]
+    },
+    {
+        "name": "contest",
+        "trans": ["['kɒntest] n. 竞争，比赛；争夺（权利） vt./vi. 竞争，比赛，争论"]
+    },
+    {
+        "name": "cope",
+        "trans": ["[kəʊp] vi. 竞争，对抗；对付，妥善处理"]
+    },
+    {
+        "name": "decent",
+        "trans": ["['diːsnt] a. 体面的；正派的，合乎礼仪的；合适的"]
+    },
+    {
+        "name": "differ",
+        "trans": ["['dɪfə] vi. 有区别；持不同看法"]
+    },
+    {
+        "name": "due",
+        "trans": ["[djuː] a. 预定应到达的；应支付，适当的 ad. 正向，正对着 n. 应有的权利；应缴款"]
+    },
+    {
+        "name": "exploit",
+        "trans": ["[ɪks'plɔɪt] vt. 开拓；开发，开采；利用；剥削；运用；发挥"]
+    },
+    {
+        "name": "explore",
+        "trans": ["[ɪks'plɔː] vi./vt. 勘探，探测；探究，探索"]
+    },
+    {
+        "name": "expose",
+        "trans": ["[ɪks'pəʊz] vt. 使遭受，使接触；使曝光；使体验"]
+    },
+    {
+        "name": "fake",
+        "trans": ["[feɪk] n. 假货，赝品 a. 假的，冒充的 vi./vt. 伪造；伪装"]
+    },
+    {
+        "name": "internal",
+        "trans": ["[ɪn'tɜːnl] a. 内部的，内的；国内的，内政的；内心的"]
+    },
+    {
+        "name": "minimum",
+        "trans": ["['mɪnɪməm] n. 最小值，最低限度 a./ad. 最小，最低"]
+    },
+    {
+        "name": "modify",
+        "trans": ["['mɒdɪfaɪ] vt. 调整，对…稍作修改（使更适合）；缓和，使温和"]
+    },
+    {
+        "name": "motivate",
+        "trans": ["['məʊtɪveɪt] vt. 促动；激励；作为…的动机"]
+    },
+    {
+        "name": "occasion",
+        "trans": ["[ə'keɪʒən] n. 场合，时节，机会；特别的事情，庆典 vt. 引起，导致"]
+    },
+    {
+        "name": "perspective",
+        "trans": ["[pə'spektɪv] n. 透视画法；远景，前途；观点，看法；思考方法"]
+    },
+    {
+        "name": "property",
+        "trans": ["['prɒpətɪ] n. 财产，资产，房地产，所有物；性质，特性"]
+    },
+    {
+        "name": "recession",
+        "trans": ["[rɪ'seʃən] n. 后退；凹处；退场；衰退，衰退期；归还，交还"]
+    },
+    {
+        "name": "relate",
+        "trans": ["[rɪ'leɪt] vt. 使互相关联；证明…有关联"]
+    },
+    {
+        "name": "retain",
+        "trans": ["[rɪ'teɪn] vt. 保持，保留，继续拥有；继续容纳；聘请（律师等）"]
+    },
+    {
+        "name": "significant",
+        "trans": ["[sɪg'nɪfɪkənt] a. 有意义的；重大的，重要的"]
+    },
+    {
+        "name": "spot",
+        "trans": ["[spɒt] n. 斑点；污点；地点"]
+    },
+    {
+        "name": "stimulate",
+        "trans": ["['stɪmjʊleɪt] vi./vt. 刺激，使兴奋；激励，鼓舞"]
+    },
+    {
+        "name": "sufficient",
+        "trans": ["[sə'fɪʃənt] a. 足够的，充分的"]
+    },
+    {
+        "name": "supplement",
+        "trans": ["['sʌplɪmənt] n. 补遗；增补；增刊；附录 vt. 增刊，补充"]
+    },
+    {
+        "name": "symptom",
+        "trans": ["['sɪmptəm] n. (疾病的)症状；(不好事情的)征兆，表征"]
+    },
+    {
+        "name": "transform",
+        "trans": ["[træns'fɔːm] vt. 改变，变换；变压；转化；改造"]
+    },
+    {
+        "name": "absorb",
+        "trans": ["[əb'zɔb] vt. 吸收（水、光、蒸汽等）；吞并，同化；理解"]
+    },
+    {
+        "name": "adequate",
+        "trans": ["['ædɪkwɪt] adj. 充足的，足够的；适当的，胜任的"]
+    },
+    {
+        "name": "assign",
+        "trans": ["[ə'saɪn] vt. 派给，布置；委派"]
+    },
+    {
+        "name": "comment",
+        "trans": ["['kɒment] n. 注释，评论；指责；表达意见 vi. 发表评论"]
+    },
+    {
+        "name": "comprehensive",
+        "trans": ["[,kɒmprɪ'hensɪv] a. 内容广泛的，总括性的，综合的；（包含）全部的；详尽的"]
+    },
+    {
+        "name": "crucial",
+        "trans": ["['kruːʃɪəl; 'kruːʃəl] a. 至关重要的，决定性的"]
+    },
+    {
+        "name": "endure",
+        "trans": ["[ɪn'djʊə] vi./vt. 忍受，忍耐；持久，持续"]
+    },
+    {
+        "name": "enroll",
+        "trans": ["[ɪn'rəʊl] vi./vt. （=enrol/enrollment）招收；登记；入学；参军；成为会员，（使）加入，注册"]
+    },
+    {
+        "name": "intensive",
+        "trans": ["[ɪn'tensɪv] a. 加强的，集中的，密集的；彻底的，深入细致的，精耕细作的；集约的"]
+    },
+    {
+        "name": "landscape",
+        "trans": ["[ˈlændˌskep] n.风景; 风景画; 乡村风景画; 地形;  vt.对…做景观美化，给…做园林美化;  vi.美化（环境等），使景色宜人; 做庭园设计师;"]
+    },
+    {
+        "name": "mislead",
+        "trans": ["[mɪs'liːd] vt. 把…带错路，误导，使误入岐途"]
+    },
+    {
+        "name": "particular",
+        "trans": ["[pə'tɪkjʊlə] a. 特殊的；专指的，个别的  n. 详情，细节；特色"]
+    },
+    {
+        "name": "rank",
+        "trans": ["[ræŋk] n. 军衔；地位，级别；排 vt. 分等级，把…分类"]
+    },
+    {
+        "name": "rare",
+        "trans": ["[reə] a. 少见的； 稀有的，难得的，珍奇的；稀薄的，稀疏的"]
+    },
+    {
+        "name": "recover",
+        "trans": ["[rɪ'kʌvə] vi./vt. 恢复，痊愈 vt. 收回；重新获得，找回"]
+    },
+    {
+        "name": "reputation",
+        "trans": ["[,repjʊ(ː)'teɪʃən] n. 名誉，名声，声望"]
+    },
+    {
+        "name": "rescue",
+        "trans": ["['reskjuː] vt./n. 营救，援救"]
+    },
+    {
+        "name": "reveal",
+        "trans": ["[rɪ'viːl] vt. 展现，显示；揭示，揭露；告诉，泄露"]
+    },
+    {
+        "name": "slip",
+        "trans": ["[slɪp] vi./vt. 滑，滑倒；滑掉；溜走 n. 疏忽，小错；纸条；跌倒"]
+    },
+    {
+        "name": "sophisticated",
+        "trans": ["[sə'fɪstɪkeɪtɪd] a. 尖端的，先进的；水平高的；老练的，老于世故的"]
+    },
+    {
+        "name": "switch",
+        "trans": ["[swɪtʃ] n. 开关；转换；鞭子 vi./vt. 转变，转换；抽打"]
+    },
+    {
+        "name": "workforce",
+        "trans": ["[ˈwɜ:kfɔ:s] n. (国家、行业或工厂）全体从业人员，劳动力"]
+    },
+    {
+        "name": "abundant",
+        "trans": ["[ə'bʌndənt] a. 大量（充足）的"]
+    },
+    {
+        "name": "advocate",
+        "trans": ["['ædvəkɪt] n. 辩护者，倡导者 vt. 拥护，提倡"]
+    },
+    {
+        "name": "bound",
+        "trans": ["[baʊnd] vi./n. 限制；跳跃 a. 被缚住的；受约束的；必然的；注定会…的 n. 界限；跳跃"]
+    },
+    {
+        "name": "bulk",
+        "trans": ["[bʌlk] n. 体积，容积；主体，大批，大量，大块"]
+    },
+    {
+        "name": "chip",
+        "trans": ["[tʃɪp] n. 碎片；（土豆等的）薄片；芯片 vt. 切下；剥落；将（土豆等）切条"]
+    },
+    {
+        "name": "collapse",
+        "trans": ["[kə'læps] vi./n. 倒塌；晕倒；崩溃；突然贬值，暴跌；倒闭"]
+    },
+    {
+        "name": "commission",
+        "trans": ["[kə'mɪʃən] n. 委员会，调查团；委任 vt. 正式委托；任命为军职"]
+    },
+    {
+        "name": "confine",
+        "trans": ["[kɒnfaɪn] vt. 限制；禁闭，使困于 n. 界限，范围"]
+    },
+    {
+        "name": "consistent",
+        "trans": ["[kən'sɪstənt] a. 始终如一的，前后一致的；连续的，持续的；一致，符合"]
+    },
+    {
+        "name": "deposit",
+        "trans": ["[dɪ'pɒzɪt] vi./vt. 存放；使沉淀；付；放下，放置 n. 存款；沉积物，定金"]
+    },
+    {
+        "name": "encourage",
+        "trans": ["[ɪn'kʌrɪdʒ] vt. 鼓励，怂恿；促进，助长"]
+    },
+    {
+        "name": "engage",
+        "trans": ["[ɪn'geɪdʒ] vi./vt. 从事；占用，吸引；约定；使保证"]
+    },
+    {
+        "name": "epidemic",
+        "trans": ["[ˌepɪ'demɪk] a. 流行性的；泛滥的 n. 流行病；传播"]
+    },
+    {
+        "name": "familiar",
+        "trans": ["[fə'mɪljə] a. 熟悉的；亲近的 n. 熟客；密友"]
+    }, {
+        "name": "file",
+        "trans": ["[faɪl] n. 文件，档案；（存放文件的）抽屉、架子、夹子等", "n. 排成行的人或物", "vi./n. 锉；锉刀"]
+    },
+    {
+        "name": "finance",
+        "trans": ["[faɪ'næns; fɪ-] n. 财政，金融", "vt. 为…提供资金"]
+    },
+    {
+        "name": "fortune",
+        "trans": ["['fɔːtʃən] n. 运气；命运；财产，财富"]
+    },
+    {
+        "name": "fraction",
+        "trans": ["['frækʃən] n. 碎片，小部分，一点儿；分数"]
+    },
+    {
+        "name": "hinder",
+        "trans": ["['hɪndə] vt./vi. 阻止，妨碍", "a. 后面的"]
+    },
+    {
+        "name": "inner",
+        "trans": ["['ɪnə] a. 内部的，里面的；内心的"]
+    },
+    {
+        "name": "interfere",
+        "trans": ["[ˌɪntə'fɪə] vi. 干涉，干预，介入；妨碍，打扰"]
+    },
+    {
+        "name": "invisible",
+        "trans": ["[ɪn'vɪzəbl] a. 看不见的，无形的，隐形的"]
+    },
+    {
+        "name": "master",
+        "trans": ["['mɑːstə] n. 男主人；大师；师傅；硕士", "vt. 精通，控制", "a. 主要的"]
+    },
+    {
+        "name": "nationwide",
+        "trans": ["['neɪʃ(ə)nwaɪd; -'waɪd] adj. 全国范围的；全国性的", "adv. 在全国"]
+    },
+    {
+        "name": "neglect",
+        "trans": ["[nɪ'glekt] vt./n. 忽视，忽略；不重视", "vt. 疏于照顾，未予看管"]
+    },
+    {
+        "name": "objective",
+        "trans": ["[əb'dʒektɪv] n. 目标，目的", "a. 客观的；真实的"]
+    },
+    {
+        "name": "observe",
+        "trans": ["[əb'zɜːv] vt./vi. 观察，观测，监视；评述；遵守"]
+    },
+    {
+        "name": "ongoing",
+        "trans": ["[ˈɒngəʊɪŋ] a. 持续的，继续的"]
+    },
+    {
+        "name": "opposite",
+        "trans": ["['ɒpəzɪt] a. 对面的；截然不同的", "n. 对立的人，对立面", "prep. 在…对面"]
+    },
+    {
+        "name": "phenomenon",
+        "trans": ["[fɪ'nɒmɪnən] n. [复数 phenomena]现象"]
+    },
+    {
+        "name": "preserve",
+        "trans": ["[prɪ'zɜːv] vt. 维护，保留，保养；保存，保藏"]
+    },
+    {
+        "name": "press",
+        "trans": ["[pres] vt./vi. 压；紧迫；拥挤", "n. 报刊；报道，新闻界；挤压"]
+    },
+    {
+        "name": "prevail",
+        "trans": ["[prɪ'veɪl] vi. 取胜，占优势；流行，盛行"]
+    },
+    {
+        "name": "prompt",
+        "trans": ["[prɒmpt] a. 敏捷的，即刻的；准时的", "vt. 激起，促进，推动", "adv. 准时地"]
+    },
+    {
+        "name": "quality",
+        "trans": ["['kwɒlɪtɪ] n. 质量，品质，特性"]
+    },
+    {
+        "name": "raw",
+        "trans": ["[rɔː] a. 未煮过的，生的；未加工过的；未经训练的"]
+    },
+    {
+        "name": "rival",
+        "trans": ["['raɪvəl] n. 竞争者，对手", "vi./vt. 竞争，对抗"]
+    },
+    {
+        "name": "scene",
+        "trans": ["[siːn] n. 地点，现场；事件，场景；景色，景象，舞台；(戏)一场"]
+    },
+    {
+        "name": "subtle",
+        "trans": ["['sʌtl] a. 精巧的，巧妙的；微妙的；（人）狡黠的；敏锐的"]
+    },
+    {
+        "name": "tackle",
+        "trans": ["['tækl] n. 滑车；用具，器械", "vt. 处理；解决，抱住，抓住"]
+    },
+    {
+        "name": "transmit",
+        "trans": ["[trænz'mɪt] vt. 传导；传送；传染；通过；传达", "vi. 发射信号；发报"]
+    },
+    {
+        "name": "wildlife",
+        "trans": ["[ˈwaɪldˌlaɪf] n. 野生的鸟兽等", "adj. 野生生物的"]
+    },
+    {
+        "name": "wire",
+        "trans": ["['waɪə] n. 金属线，电线；电报，电信", "vt. 用金属丝连接；用导线接通"]
+    },
+    {
+        "name": "advertise",
+        "trans": ["['ædvətaɪz] vt.通知", "vi.登广告"]
+    },
+    {
+        "name": "category",
+        "trans": ["['kætiɡəri] n.种类，类目；范畴"]
+    },
+    {
+        "name": "cater",
+        "trans": ["['keitə] vi.迎合，投合"]
+    },
+    {
+        "name": "caution",
+        "trans": ["['kɔ:ʃən] n.小心；告诫", "vt.警告"]
+    },
+    {
+        "name": "circus",
+        "trans": ["['sə:kəs] n.马戏；马戏团"]
+    },
+    {
+        "name": "currency",
+        "trans": ["['kʌrənsi] n.通货；通用；市价"]
+    },
+    {
+        "name": "default",
+        "trans": ["[di'fɔ:lt] n.&vi.不履行；缺席"]
+    },
+    {
+        "name": "dessert",
+        "trans": ["[di'zə:t] n.甜点心"]
+    },
+    {
+        "name": "distract",
+        "trans": ["[dis'trækt] vt.分散(心思)；打扰"]
+    },
+    {
+        "name": "enterprise",
+        "trans": ["['entəpraiz] n.艰巨的事业；事业心"]
+    },
+    {
+        "name": "estate",
+        "trans": ["[i'steit] n.房地产；财产，产业"]
+    },
+    {
+        "name": "forum",
+        "trans": ["['fɔ:rəm] n.论坛，讨论会"]
+    },
+    {
+        "name": "ham",
+        "trans": ["[hæm] n.火腿；(兽类的)后踝"]
+    },
+    {
+        "name": "hemisphere",
+        "trans": ["['hemisfiə] n.半球；半球地图"]
+    },
+    {
+        "name": "incorporate",
+        "trans": ["[in'kɔ:pəreit] vt.结合，合并，收编"]
+    },
+    {
+        "name": "inertia",
+        "trans": ["[i'nə:ʃjə] n.惯性，惯量；无力"]
+    },
+    {
+        "name": "ingredient",
+        "trans": ["[in'ɡri:diənt] n.配料，成分"]
+    },
+    {
+        "name": "metropolitan",
+        "trans": ["[metrə'pɔlɪt(ə)n] a.主要都市的", "n.大主教"]
+    },
+    {
+        "name": "norm",
+        "trans": ["[nɔ:m] n.标准，规范；平均数"]
+    },
+    {
+        "name": "outside",
+        "trans": ["['aut'said] prep.在…外，向…外"]
+    },
+    {
+        "name": "overseas",
+        "trans": ["['əuvə'si:z] ad.在海外，(向)国外"]
+    },
+    {
+        "name": "peak",
+        "trans": ["[pi:k] n.(物体的)尖端"]
+    },
+    {
+        "name": "personnel",
+        "trans": ["[,pə:sə'nel] n.人事部门"]
+    },
+    {
+        "name": "pest",
+        "trans": ["[pest] n.害虫；害人虫"]
+    },
+    {
+        "name": "plain",
+        "trans": ["[plein] a.坦白的；普通的"]
+    },
+    {
+        "name": "plastic",
+        "trans": ["['plæstik,plɑ:stik] a.塑料的；塑性的"]
+    },
+    {
+        "name": "platform",
+        "trans": ["['plætfɔ:m] n.政纲，党纲，宣言"]
+    },
+    {
+        "name": "politics",
+        "trans": ["['pɔlitiks] n.政纲，政见，策略"]
+    },
+    {
+        "name": "psychology",
+        "trans": ["[sai'kɔlədʒi] n.心理学；心理"]
+    },
+    {
+        "name": "reproduce",
+        "trans": ["[,ri:prə'dju:s] vt.仿造"]
+    },
+    {
+        "name": "retail",
+        "trans": ["['ri:teil] n.零售 a.零售的"]
+    },
+    {
+        "name": "satellite",
+        "trans": ["['sætəlait] n.附属物"]
+    },
+    {
+        "name": "sculpture",
+        "trans": ["['skʌlptʃə] n.雕刻(术)；雕刻品"]
+    },
+    {
+        "name": "severe",
+        "trans": ["[si'viə] a.激烈的；简朴的"]
+    },
+    {
+        "name": "simultaneous",
+        "trans": ["[,siməl'teinjəs] a.同时的，同时存在的"]
+    },
+    {
+        "name": "software",
+        "trans": ["['sɔftwɛə] n.(计算机的)软件"]
+    },
+    {
+        "name": "solar",
+        "trans": ["['səulə] a.利用太阳光的"]
+    },
+    {
+        "name": "species",
+        "trans": ["['spi:ʃiz] n.种，物种；种类"]
+    },
+    {
+        "name": "theft",
+        "trans": ["[θeft] n.盗窃，偷窃(行为)"]
+    },
+    {
+        "name": "trade",
+        "trans": ["[treid] vi.做买卖；交换"]
+    },
+    {
+        "name": "ultimate",
+        "trans": ["['ʌltimit] a.基本的，首要的"]
+    },
+    {
+      "name" : "affluent",
+      "trans": ["['æflʊənt]\ta. 富裕的，富有的，丰富的，富饶的"]
+  },
+  {
+    "name": "beverage",
+    "trans": ["['bevə rɪdʒ]\tn. （水，酒等之外的）饮料"]
+  },
+  {
+    "name": "bias",
+    "trans": ["['baɪəs]\tn. 偏见；偏心，偏袒 vt. 使有偏见"]
+  },
+  {
+    "name": "breakthrough",
+    "trans": ["['breɪkθru:]\tn.突破；重大进展"]
+  },
+  {
+    "name": "calorie",
+    "trans": ["['kælərɪ]\tn. 卡路里（食物所产生的热量或能量单位）"]
+  },
+  {
+    "name": "counterpart",
+    "trans": ["['kaʊntəpɑːt]\tn. 职位（或作用）相当的人，对应的人（或物）"]
+  },
+  {
+    "name": "drought",
+    "trans": ["[draʊt]\tn. 旱灾，干旱"]
+  },
+  {
+    "name": "elite",
+    "trans": ["[eɪ'lɪːt]\tn. [总称]出类拔萃的人（或）物；精华，精英的"]
+  },
+  {
+    "name": "gadget",
+    "trans": ["['gædʒɪt]\tn. 小玩意；小器具；小配件；诡计"]
+  },
+  {
+    "name": "habitat",
+    "trans": ["['hæbɪtæt]\tn. （动物的）栖息地，（植物的）产地"]
+  },
+  {
+    "name": "infrastructure",
+    "trans": ["['ɪnfrə'strʌktʃə]\tn. 基础结构，基础设施"]
+  },
+  {
+    "name": "memorandum",
+    "trans": ["[,memə'rændəm]\tn. 备忘录"]
+  },
+  {
+    "name": "mortgage",
+    "trans": ["['mɔːgɪdʒ]\tn./vt. 抵押（借款）"]
+  },
+  {
+    "name": "outdated",
+    "trans": ["[ˌaʊt'deɪtɪd]\ta. 过时的，陈旧的"]
+  },
+  {
+    "name": "strive",
+    "trans": ["[straɪv]\tvi. 奋斗，努力；争斗"]
+  },
+  {
+    "name": "tenant",
+    "trans": ["['tenənt]\tn. 承租人；房客；租户，佃户 vt. （作为租赁者）居住；租借"]
+  },
+  {
+    "name": "transit",
+    "trans": ["['trænsɪt]\tn. 运输；运输路线；转变，过渡 vt. 运送，使通过；使旋转；经过 vi. 通过，经过，越过"]
+  },
+  {
+    "name": "trigger",
+    "trans": ["['trɪgə]\tn. 扳机；诱因；引爆器 vt. 触发，引起"]
+  },
+  {
+    "name": "tuition",
+    "trans": ["[tjuː'ɪʃən]\tn. 学费；(某一学科的)教学，讲授，指导"]
+  },
+  {
+    "name": "underestimate",
+    "trans": ["[ʌndər'estɪmeɪt]\tvt. 低估，看轻"]
+  },
+  {
+    "name": "willpower",
+    "trans": ["['wɪlpaʊə]\tn. 意志力"]
+  },
+  {
+    "name": "limit",
+    "trans": ["['lɪmɪt]\tn. 界限，限度，极限，范围 vt. 限制，限定"]
+  },
+  {
+    "name": "aware",
+    "trans": ["[ə'weə]\ta. 知道的，意识到的；对…有兴趣的"]
+  },
+  {
+    "name": "community",
+    "trans": ["[kə'mjuːnɪtɪ]\tn. 同一地区的全体居民，社会，社区；团体，界"]
+  },
+  {
+    "name": "contain",
+    "trans": ["[kən'teɪn]\tvt. 包含，容纳；可被…除尽 [僻] vt. 容忍，抑制；防止…蔓延（或恶化）"]
+  },
+  {
+    "name": "feature",
+    "trans": ["['fɪːtʃə]\tn. 特征，容貌 vi. 占重要地位"]
+  },
+  {
+    "name": "replace",
+    "trans": ["[rɪ(ː)'pleɪs]\tvt. 取代，更新，代替；把…放回原处"]
+  },
+  {
+    "name": "case",
+    "trans": ["[keɪs]\tn. 箱，盒，容器；情况，事实；案件，诉讼案"]
+  },
+  {
+    "name": "communicate",
+    "trans": ["[kə'mjuːnɪkeɪt]\tvt./vi. 传达，传播；沟通；通讯 vi. （两个房间）相通"]
+  },
+  {
+    "name": "expense",
+    "trans": ["[ɪk'spens]\tn. 花费，消费，消耗；代价"]
+  },
+  {
+    "name": "specific",
+    "trans": ["[spɪ'sɪfɪk]\ta. 明确的，具体的；独特的 n. 详情，细节"]
+  },
+  {
+    "name": "stick",
+    "trans": ["[stɪk]\tn. 棍，手杖；棒状物，条状物 vt. 刺，扎；粘贴，固定"]
+  },
+  {
+    "name": "approach",
+    "trans": ["[ə'prəʊtʃ]\tvt. 靠近；接洽 vi. 临近 n. 途径，入门；方式"]
+  },
+  {
+    "name": "assume",
+    "trans": ["[ə'sjuːm]\tvt. 假装；假定，设想，认为；承担（责任），取得（权利）"]
+  },
+  {
+    "name": "available",
+    "trans": ["[ə'veɪləbl]\ta. （用于物）可利用的，可获得的；（人）有空的；可见到的，接受采访的"]
+  },
+  {
+    "name": "employ",
+    "trans": ["[ɪm'plɔɪ]\tn./vt. 雇用；用，使用"]
+  },
+  {
+    "name": "exchange",
+    "trans": ["[ɪks'tʃeɪndʒ]\tvi./vt./n. 交换；交流；交易 n. 交易所；汇兑"]
+  },
+  {
+    "name": "factor",
+    "trans": ["['fæktə]\tn. 因素，要素；代理人，代理商"]
+  },
+  {
+    "name": "indicate",
+    "trans": ["['ɪndɪkeɪt]\tvt. 指出；表明，暗示；象征，标志"]
+  },
+  {
+    "name": "respect",
+    "trans": ["[rɪs'pekt]\tn./vt. 尊敬，重视；敬意；关系，方面 vt. 遵守"]
+  },
+  {
+    "name": "review",
+    "trans": ["[rɪ'vjuː]\tvi./vt. 回顾，复习；反思；撰写评论 n. 回顾，复习；评论"]
+  },
+  {
+    "name": "various",
+    "trans": ["['veərɪəs]\ta. 各种各样的，不同的；具有多种特征的"]
+  },
+  {
+    "name": "annual",
+    "trans": ["['ænjʊəl]\ta. 每年的；一年生的 n. 年刊；一年生植物"]
+  },
+  {
+    "name": "background",
+    "trans": ["['bækgraʊnd]\tn. 背景，经历；幕后；底色"]
+  },
+  {
+    "name": "circumstance",
+    "trans": ["['sɜːkəmstəns]\tn. 环境；详情，境况"]
+  },
+  {
+    "name": "commit",
+    "trans": ["[kə'mɪt]\tvt. 把…交托给；犯（错误），保证"]
+  },
+  {
+    "name": "crisis",
+    "trans": ["['kraɪsɪs]\tn.（(pl.)crises） 危机，紧要关头"]
+  },
+  {
+    "name": "efficient",
+    "trans": ["[ɪ'fɪʃənt]\ta. 有效的，效率高的；有能力的，能胜任的"]
+  },
+  {
+    "name": "entire",
+    "trans": ["[ɪn'taɪə]\ta. 完全的，全部的，完整的"]
+  },
+  {
+    "name": "individual",
+    "trans": ["[ɪndɪ'vɪdjʊ(ə)l]\ta. 个人的，单独的；独特的 n. 个人，个体；有某种特点的人"]
+  },
+  {
+    "name": "secure",
+    "trans": ["[sɪ'kjʊə]\ta. 有自信的；有把握的；稳固的，安全的 vt. 栓牢，扣紧；防护"]
+  },
+  {
+    "name": "supply",
+    "trans": ["[sə'plaɪ]\tvi./vt. 供给，补足；满足 n. 供应，供应量；必需品"]
+  },
+  {
+    "name": "abstract",
+    "trans": ["['æbstrækt]\ta. 抽象的；n. 摘要，梗概；vt. 提取；摘录要点"]
+  },
+  {
+    "name": "approve",
+    "trans": ["[ə'pruːv]\tvt. 赞成，同意；审议，通过 vi. 赞成；称许"]
+  },
+  {
+    "name": "concept",
+    "trans": ["['kɒnsept]\tn. 概念，观念，设想"]
+  },
+  {
+    "name": "consequence",
+    "trans": ["['kɒnsɪkwəns]\tn. 结果，后果；影响"]
+  },
+  {
+    "name": "consume",
+    "trans": ["[kən'sjuːm]\tv. 消耗；吃完，喝光；花费，消费"]
+  },
+  {
+    "name": "define",
+    "trans": ["[dɪ'faɪn]\tvt. 给…下定义；阐述，界定；规定"]
+  },
+  {
+    "name": "delay",
+    "trans": ["[dɪ'leɪ]\tn. 延迟或耽搁的时间；延误，延期 vi./vt. 推迟；使耽搁"]
+  },
+  {
+    "name": "eliminate",
+    "trans": ["[ɪ'lɪmɪneɪt]\tvt. 除去；淘汰；排(删，消)除，清除；削减(人员)"]
+  },
+  {
+    "name": "emotion",
+    "trans": ["[ɪ'məʊʃən]\tn. 情感，感动"]
+  },
+  {
+    "name": "emphasis",
+    "trans": ["['emfəsɪs]\tn. 强调，重点"]
+  },
+  {
+    "name": "participate",
+    "trans": ["[pɑː'tɪsɪpeɪt]\tvt./vi. 分享，分担 vi. 参与，参加；含有，带有"]
+  },
+  {
+    "name": "purchase",
+    "trans": ["['pɜːtʃəs]\tvt. 买，购买 n. 购买的物品"]
+  },
+  {
+    "name": "purpose",
+    "trans": ["['pɜːpəs]\tn. 目的，意图；用途，效果；重要意义"]
+  },
+  {
+    "name": "source",
+    "trans": [" [sɔːs]\tn. 源，源泉；来源；起源 vt. 从…获得"]
+  },
+  {
+    "name": "throw",
+    "trans": ["[ɵrəʊ]\tvt./n. 扔，抛，投 n. 投掷（距离）"]
+  },{
+    "name": "urgent",
+    "trans": ["['ɜːdʒənt]\ta. 急迫的，紧要的，紧急的"]
+  },
+  {
+    "name": "barrier",
+    "trans": ["['bærɪə]\tn. 栅栏；屏障，障碍（物）"]
+  },
+  {
+    "name": "campaign",
+    "trans": ["[kæm'peɪn]\tn. 战役；运动，宣传活动"]
+  },
+  {
+    "name": "capable",
+    "trans": ["['keɪpəbl]\ta. 有本领的，有能力的"]
+  },
+  {
+    "name": "dispute",
+    "trans": ["[dɪs'pjuːt]\tn. 争论，争执，争端 vt. 争论；反驳；怀疑；阻止"]
+  },
+  {
+    "name": "exact",
+    "trans": ["[ɪg'zækt]\ta. 确切的，正确的，精确的；（人）严谨的"]
+  },
+  {
+    "name": "initial",
+    "trans": ["[ɪ'nɪʃəl]\ta. 最初的，开头的；词首的 n. 词首大写字母 vt. 在文件上签上姓名的首字母"]
+  },
+  {
+    "name": "practical",
+    "trans": ["['præktɪkəl]\ta. 客观存在的，实际的；（人）实事求是的；善于制作 n. 实践课"]
+  },
+  {
+    "name": "regulate",
+    "trans": ["['regjʊleɪt]\tvt. 管制，控制；调节，校准；调整"]
+  },
+  {
+    "name": "release",
+    "trans": ["[rɪ'lɪːs]\tvt. 释放；放开，松开；发泄 n. 释放；排放；豁免；解脱；发泄"]
+  },
+  {
+    "name": "represent",
+    "trans": ["[,rɪːprɪ'zent]\tvi./vt. 描述；表示，表现；代表，代理；阐明，说明；象征"]
+  },
+  {
+    "name": "resist",
+    "trans": ["[rɪ'zɪst]\tvi./vt. 抵抗，反抗；忍得住；使不受…的伤害"]
+  },
+  {
+    "name": "vision",
+    "trans": ["['vɪʒən]\tn. 视力，视觉；远见；洞察力；幻想，幻影；想象力"]
+  },
+  {
+    "name": "yield",
+    "trans": ["[jɪːld]\tvt./vi. 出产，生长 vi. 屈服，服从 n. 产量，收获"]
+  },
+  {
+    "name": "accomplish",
+    "trans": ["[ə'kɒmplɪʃ]\tvt. 实现（计划等）；达到（目的）；完成（任务）"]
+  },
+  {
+    "name": "arise",
+    "trans": ["[ə'raɪz]\tvi. 起床，起身；升起；形成；发生；呈现；由…引起，由…产生"]
+  },
+  {
+    "name": "authority",
+    "trans": ["[ɔː'ɵɔrɪtɪ]\tn. 权力，权威；权威人士；权威著作；(pl.)官方，当局"]
+  },
+  {
+    "name": "connect",
+    "trans": ["[kə'nekt]\tvt. 与…联系，接通（电话） vi. 连接"]
+  },
+  {
+    "name": "content",
+    "trans": ["[kən'tent]\t['k2ntent] n. 容量，含量；内容，所容纳之物；(pl.)目录；[k2n'tent]a. 满意的，满足的；n. 满意，满足；vt. 使满意，使满足 [僻] a. 愿意的；content with 满足的"]
+  },
+  {
+    "name": "demonstrate",
+    "trans": ["['demənstreɪt]\tv. 举例说明，阐明；图解，加插图"]
+  },
+  {
+    "name": "distribute",
+    "trans": ["[dɪs'trɪbjʊ(ː)t]\tvt. 分发，分配，分销；分布；配(电)"]
+  },
+  {
+    "name": "embrace",
+    "trans": ["[ɪm'breɪs]\tvi./vt. 拥抱；环绕；采用，欣然接受 n. 拥抱；接纳"]
+  },
+  {
+    "name": "enormous",
+    "trans": ["[ɪ'nɔːməs]\ta. 巨大的，庞大的"]
+  },
+  {
+    "name": "extent",
+    "trans": ["[ɪks'tent]\tn. 广度，宽度，长度，大小；程度，范围，限度"]
+  },
+  {
+    "name": "former",
+    "trans": ["['fɔːmə]\ta. 以前的，在前的 pron. 前者"]
+  },
+  {
+    "name": "harsh",
+    "trans": ["[hɑːʃ]\ta. 粗糙的；(声音)刺耳的；苛刻的，严酷的"]
+  },
+  {
+    "name": "illustrate",
+    "trans": ["['ɪləstreɪt]\tv. 举例说明，阐明；图解，加插图"]
+  },
+  {
+    "name": "insure",
+    "trans": ["[ɪn'ʃʊə]\tv. 保险，给…保险；保证；接收投保，承保"]
+  },
+  {
+    "name": "modest",
+    "trans": ["['mɒdɪst]\ta. 谦虚的；有节制的，些许的，不太大（或太贵等）的；（人，尤指妇女或其衣着）庄重的，朴素的"]
+  },
+  {
+    "name": "numerous",
+    "trans": ["['njuːmərəs]\ta. 众多的，许多的，大批的"]
+  },
+  {
+    "name": "overall",
+    "trans": ["['əʊvərɔːl]\ta. 综合的；总共的 ad. 总共；总地来说"]
+  },
+  {
+    "name": "perceive",
+    "trans": ["[pə'sɪːv]\tvt./vi. 察觉，感知；理解，领悟"]
+  },
+  {
+    "name": "prior",
+    "trans": ["['praɪə]\ta. 优先的，在前的；在…之前"]
+  },
+  {
+    "name": "prohibit",
+    "trans": ["[prə'hɪbɪt]\tvt. （尤指以法令）禁止，不准；阻止；使不可能"]
+  },
+  {
+    "name": "statistic",
+    "trans": ["[stə'tɪstɪk]\tn. 数据；统计数字中的一项；（风）统计数值(资料）；统计学"]
+  },
+  {
+    "name": "status",
+    "trans": ["['steɪtəs]\tn. 地位；情形；重视程度"]
+  },
+  {
+    "name": "track",
+    "trans": ["[træk]\tn. 跑道，足迹；方向 vt./vi. 跟踪；留下痕迹"]
+  },
+  {
+    "name": "urge",
+    "trans": ["[ɜːdʒ]\tv. 催促；怂恿；强调 n. 强烈欲望，迫切要求"]
+  },
+  {
+    "name": "vary",
+    "trans": ["['veərɪ]\tvt. 改变，变化；使多样化"]
+  },
+  {
+    "name": "accurate",
+    "trans": ["['ækjʊrɪt]\ta. 正确无误的；准确的，精确的"]
+  },
+  {
+    "name": "accuse",
+    "trans": ["[ə'kjuːz]\tv. 控告，指责 vi. 指控，指责"]
+  },
+  {
+    "name": "artificial",
+    "trans": ["[ˌɑːtɪ'fɪʃəl]\ta. 人工的，人造的，人为的；虚伪的，做作的"]
+  },
+  {
+    "name": "barrel",
+    "trans": ["['bærəl]\tn. 桶；一桶（的量或者东西）；枪管，炮管"]
+  },
+  {
+    "name": "battery",
+    "trans": ["['bætərɪ]\tn. 电池（组）；一组，一套；组炮，炮兵连；殴打（罪）"]
+  },
+  {
+    "name": "bother",
+    "trans": ["['bɒðə]\tv. 打扰，麻烦；使不安；费工夫（做…） vi. 担心，烦恼 n. 烦恼，焦急；不便之处"]
+  },
+  {
+    "name": "client",
+    "trans": ["['klaɪənt]\tn. 律师等的当事人，委托人；商店的顾客"]
+  },
+  {
+    "name": "code",
+    "trans": ["[kəʊd]\tn. 代码，密码；法典，法规，准则"]
+  },
+  {
+    "name": "component",
+    "trans": ["[kəm'pəʊnənt]\tn. 组成部分，元件 a. 组成的，合成的"]
+  },
+  {
+    "name": "implement",
+    "trans": ["['ɪmplɪmənt]\tn. (pl.) 工具，器具 vt. 贯彻，实现"]
+  },
+  {
+    "name": "obstacle",
+    "trans": ["['ɒbstəkl]\tn. 障碍（物），妨碍，阻碍，干扰"]
+  },
+  {
+    "name": "occupy",
+    "trans": ["['ɒkjʊpaɪ]\tv. 占用；占领；居住于；任职"]
+  },
+  {
+    "name": "proportion",
+    "trans": ["[prə'pɔːʃən]\tn. 比例、倍数关系；部分，份额；均衡；正确的比例，匀称"]
+  },
+  {
+    "name": "rush",
+    "trans": ["[rʌʃ]\tvi./vt./n. (使)冲；仓促 n. 忙碌；激增；大量急需 a. (交通)繁忙的"]
+  },
+  {
+    "name": "separate",
+    "trans": ["['sɛpret]\ta. 分开的 vi./vt. (使)分开；隔开；区分"]
+  },
+  {
+    "name": "substitute",
+    "trans": ["['sʌbstɪtjuːt]\tn. 代替者；替补；代用品 vi./vt. （用…）代替，替换"]
+  },
+  {
+    "name": "transport",
+    "trans": ["[træns'pɔːt]\tv. 运输，运送，搬运 n. 运输；运输系统；运载工具"]
+  },
+  {
+    "name": "hang",
+    "trans": ["[hæŋ]\tv. 悬挂，垂吊；吊死，绞死"]
+  },
+  {
+    "name": "abuse",
+    "trans": ["[ə'bjuːz]\tv. 滥用；虐待；辱骂；诋毁 n. 滥用；恶习"]
+  },
+  {
+    "name": "apart",
+    "trans": ["[ə'pɑːt]\tad. 相距；分离，离开，隔开 a. 分离的，分隔的"]
+  },
+  {
+    "name": "appreciate",
+    "trans": ["[ə'prɪːʃɪeɪt]\tv. 为…表示感激，感谢；欣赏，赏识；评价；体谅"]
+  },
+  {
+    "name": "bridge",
+    "trans": ["[brɪdʒ]\tn. 桥；桥牌；鼻梁 vt. 架桥；渡过"]
+  },
+  {
+    "name": "calculate",
+    "trans": ["['kælkjʊleɪt]\tv. 计算，推算；推测；计划，打算"]
+  },
+  {
+    "name": "ceiling",
+    "trans": ["['sɪːlɪŋ]\tn. 天花板"]
+  },
+  {
+    "name": "cite",
+    "trans": ["[saɪt]\tv. 引用；引证，举（例）"]
+  },
+  {
+    "name": "civil",
+    "trans": ["['sɪvl]\ta. 公民的；民间的；民用的；有礼貌的，文明的"]
+  },
+  {
+    "name": "climate",
+    "trans": ["['klaɪmɪt]\tn. 气候；风气，社会思潮"]
+  },
+  {
+    "name": "coach",
+    "trans": ["[kəʊtʃ]\tn. 长途公共汽车；教练 vt. 训练，指导，培训"]
+  },
+  {
+    "name": "conclude",
+    "trans": ["[kən'kluːd]\tv. 结束，终止；断定，下结论"]
+  },
+  {
+    "name": "confidence",
+    "trans": ["['kɒnfɪdəns]\tn. 信心，自信 [僻] n. 秘密，机密"]
+  },
+  {
+    "name": "congress",
+    "trans": ["['kɒŋgres]\tn. （代表）大会；（美国等国的）国会，议会"]
+  },{
+    "name": "conquer",
+    "trans": ["['kɒŋkə]\tvt./n. 征服，战胜，占领 vt. （成功地）克服，破除；很成功"]
+  },
+  {
+    "name": "contact",
+    "trans": ["['kɒntækt]\tvt./vi./n. （使）接触，交往"]
+  },
+  {
+    "name": "convert",
+    "trans": ["[kən'vɜːt]\tvt./vi. （使）变换，转换；改变（信仰、观点、习惯等）；兑换（钱）"]
+  },
+  {
+    "name": "craft",
+    "trans": ["[krɑːft]\tn. 工艺，手艺，技巧；飞机，飞船 vt. 精心制作"]
+  },
+  {
+    "name": "curriculum",
+    "trans": ["[kə'rɪkjʊləm]\tn. 课程，（学校等的）全部课程"]
+  },
+  {
+    "name": "declare",
+    "trans": ["[dɪ'kleə]\tvi./vt. 宣布，宣告，声明；断言，宣称"]
+  },
+  {
+    "name": "deserve",
+    "trans": ["[dɪ'zɜːv]\tvi./vt. 应受，值得，应得"]
+  },
+  {
+    "name": "despite",
+    "trans": ["[dɪs'paɪt]\tprep. 不管，不顾，任凭"]
+  },
+  {
+    "name": "detail",
+    "trans": ["['dɪːteɪl; dɪ'teɪl]\tn. 细微之处；具体情况，详细资料 vt. 详述"]
+  },
+  {
+    "name": "determine",
+    "trans": ["[dɪ'tɜːmɪn]\tvi./vt. 决心，决定；裁决，安排；确定"]
+  },
+  {
+    "name": "device",
+    "trans": ["[dɪ'vaɪs]\tn. 装置，设备，仪表，器具；设计"]
+  },
+  {
+    "name": "discourage",
+    "trans": ["[dɪs'kʌrɪdʒ]\tvt. 使泄气，使失去信心；阻止"]
+  },
+  {
+    "name": "distinct",
+    "trans": ["[dɪs'tɪŋkt]\ta. 清楚的，明显的；确定无疑的"]
+  },
+  {
+    "name": "distinguish",
+    "trans": ["[dɪs'tɪŋgwɪʃ]\tvi./vt. 区别，辨别；成为…的区别性特征，辨认出，听出"]
+  },
+  {
+    "name": "district",
+    "trans": ["['dɪstrɪkt]\tn. 地区，行政区；美国各州的众议院选区"]
+  },
+  {
+    "name": "diverse",
+    "trans": ["[daɪ'vɜːs]\ta. 多种多样的"]
+  },
+  {
+    "name": "document",
+    "trans": ["['dɒkjʊmənt]\tn. 公文，文献，文件，证件"]
+  },
+  {
+    "name": "domestic",
+    "trans": ["[də'mestɪk]\ta. 家庭的，家用的；（人）居家的；国内的，本国的；驯养的"]
+  },
+  {
+    "name": "element",
+    "trans": ["['elɪmənt]\tn. 元素，要素；元件；自然环境"]
+  },
+  {
+    "name": "emerge",
+    "trans": ["[ɪ'mɜːdʒ]\tvi. 显现，浮现，暴露；（从困境或苦难经历中）幸存"]
+  },
+  {
+    "name": "era",
+    "trans": ["['ɪrə]\tn.纪元，年代; 历史时期，时代; 重大事件;"]
+  },
+  {
+    "name": "escape",
+    "trans": ["[ɪs'keɪp]\tn. 逃跑，逃脱 vi./vt. 逃跑；避免；泄漏"]
+  },
+  {
+    "name": "establish",
+    "trans": ["[ɪs'tæblɪʃ]\tvt. 建立；安置，得到认同"]
+  },
+  {
+    "name": "evolve",
+    "trans": ["[ɪ'vɒlv]\tvi./vt. (使)发展；(使)进化；(使)进展"]
+  },
+  {
+    "name": "export",
+    "trans": ["['ekspɔːt]\tn. 输出，出口；出口商品 vi./vt. 输出，出口"]
+  },
+  {
+    "name": "external",
+    "trans": ["[eks'tɜːnl]\ta. 外部的；客观的；外来的；外面的"]
+  },
+  {
+    "name": "extreme",
+    "trans": ["[ɪks'trɪːm]\ta. 末端的；极度的；严重的；偏激的 n. 极端；最大程度"]
+  },
+  {
+    "name": "fund",
+    "trans": ["[fʌnd]\tn. 资金，基金；存款，现款 vt. 为…提供资金，资助"]
+  },
+  {
+    "name": "fundamental",
+    "trans": ["[,fʌndə'mentl]\ta. 十分重大的；必不可少的；基础的 n. (pl.)基本原则，根本法则"]
+  },
+  {
+    "name": "generation",
+    "trans": ["[,dʒenə'reɪʃən]\tn. 一代（人）；一代的时间"]
+  },
+  {
+    "name": "grand",
+    "trans": ["[grænd]\ta. 盛大的，豪华的；重大的，主要的"]
+  },
+  {
+    "name": "handle",
+    "trans": ["['hændl]\tn. 把手，拉手 vt. 处理，对待；操纵，抓；抚养"]
+  },
+  {
+    "name": "highlight",
+    "trans": ["['haɪlaɪt]\tvt. 使显著，使突出；强调 n. 最精彩的部分；（图画或照片）强光部分；挑染的头发"]
+  },
+  {
+    "name": "household",
+    "trans": ["['haʊshəʊld]\tn. 家庭，家人 a. 家庭（务）的，家常的"]
+  },
+  {
+    "name": "identity",
+    "trans": ["[aɪ'dentɪtɪ]\tn. 身份；本体；特征；同一(性)；一致；国籍；等式"]
+  },
+  {
+    "name": "immediate",
+    "trans": ["[ɪ'mɪːdjət]\ta. 立即的，即时的；直接的；最接近的；目前的，当前的"]
+  },
+  {
+    "name": "import",
+    "trans": ["[ɪm'pɔːt; 'ɪmpɔːt]\tvt./n. 进口，输入，引进 n. (pl.)进口商品"]
+  },
+  {
+    "name": "independent",
+    "trans": ["[ɪndɪ'pendənt]\ta. 独立的；无偏见的；不受影响的；私营的"]
+  },
+  {
+    "name": "institute",
+    "trans": ["['ɪnstɪtjuːt]\tn. 学会，研究所；学院；机构建筑"]
+  },
+  {
+    "name": "institution",
+    "trans": ["[,ɪnstɪ'tjuːʃən]\tn. 公共机构；协会；学校；研究所；建立"]
+  },
+  {
+    "name": "intellectual",
+    "trans": ["[ˌɪntɪ'lektjʊəl]\tn. 知识分子 a. 智力的，理智的，有理解力的；受教育程度高的"]
+  },
+  {
+    "name": "intelligent",
+    "trans": ["[ɪn'telɪdʒənt]\ta. 明智的，理智的；智能的"]
+  },
+  {
+    "name": "intense",
+    "trans": ["[ɪn'tens]\ta. 强烈的，剧烈的；热烈的，严肃紧张的，激烈的；有强烈感情的"]
+  },
+  {
+    "name": "invest",
+    "trans": ["[ɪn'vest]\tvt. 投资，投入(精力、时间等)"]
+  },
+  {
+    "name": "investigate",
+    "trans": ["[ɪn'vestɪgeɪt]\tvi./vt. 调查，调查研究"]
+  },
+  {
+    "name": "item",
+    "trans": ["['aɪtem; 'aɪtəm]\tn. 条(款)，项目；一则(新闻)，(戏剧的)节目，一项；一件商品或物品"]
+  },
+  {
+    "name": "junior",
+    "trans": ["['dʒuːnjə]\ta./n. 年少的；低年级学生；职位低下（的）；小学生"]
+  },
+  {
+    "name": "justify",
+    "trans": ["['dʒʌstɪfaɪ]\tvi./vt. 证明…正当(或有理、正确)；对…做出解释；为…辩护"]
+  },
+  {
+    "name": "keen",
+    "trans": ["[kɪːn]\ta. 锋利的；敏捷的；（感情等）强烈的"]
+  },
+  {
+    "name": "label",
+    "trans": ["['leɪbl]\tn. 标签；称号，绰号 vt. 把…称为；用标签标明"]
+  },
+  {
+    "name": "labor",
+    "trans": ["['leɪbə]\t（=labour） n. 工作，劳动；劳力，工人 vi. 劳动；苦干，努力做"]
+  },
+  {
+    "name": "legal",
+    "trans": ["['lɪːgəl]\ta. 法律的，法定的；合法的，正当的"]
+  },
+  {
+    "name": "link",
+    "trans": ["[lɪŋk]\tvi./vt. 连接，联系 n. 环节，链环；联系"]
+  },
+  {
+    "name": "loan",
+    "trans": ["[ləʊn]\tn. 贷款；出借，借出 vi./vt. 借出"]
+  },
+  {
+    "name": "manage",
+    "trans": ["['mænɪdʒ]\tvi./vt. 完成；经营，对付；操纵"]
+  },
+  {
+    "name": "material",
+    "trans": ["[mə'tɪərɪəl]\tn. 资料，物质；肉体的；实质性的"]
+  },
+  {
+    "name": "medium",
+    "trans": ["['mɪːdjəm]\tn. （pl. media）媒体；方法；材料，形式；（生物）介质，培养基 a. 中等的"]
+  },
+  {
+    "name": "mission",
+    "trans": ["['mɪʃən]\tn. 使命，任务；代表团；军事任务；太空飞行任务"]
+  },
+  {
+    "name": "occupation",
+    "trans": ["[ˌɒkju'peɪʃn]\tn. 职业，工作; 占有，占领; （土地、房屋、建筑等的）使用;"]
+  },
+  {
+    "name": "odd",
+    "trans": ["[ɒd]\ta. 奇数的；单只的；奇怪的；单只的；临时的；带零头的"]
+  },
+  {
+    "name": "ordinary",
+    "trans": ["['ɔːdɪnərɪ]\ta. 普通的，平凡的，平常的；平庸的"]
+  },
+  {
+    "name": "outcome",
+    "trans": ["['aʊtkʌm]\tn. 结果，成果，效果"]
+  },
+  {
+    "name": "package",
+    "trans": ["['pækɪdʒ]\tn. 包装，箱；包装费；标准部件；成套（建议、交易等）"]
+  },
+  {
+    "name": "passion",
+    "trans": ["['pæʃən]\tn. 热情，酷爱；热衷的爱好或活动；激怒；强烈感情"]
+  },
+  {
+    "name": "pile",
+    "trans": ["[paɪl]\tn. 堆，大量，大数目 vt./vi. 堆，叠，堆积"]
+  },
+  {
+    "name": "policy",
+    "trans": ["['pɒlɪsɪ]\tn. 政策，方针 [僻]； 保险单"]
+  },
+  {
+    "name": "pose",
+    "trans": ["[pəʊz]\tn. 姿态；装腔作势 vt. 摆姿势 vi. 炫耀；佯装，伪装"]
+  },
+  {
+    "name": "prime",
+    "trans": ["[praɪm]\ta. 首要的，基本的；最好的，首选的 n. 青春，全盛期"]
+  },
+  {
+    "name": "principle",
+    "trans": ["['prɪnsəpəl]\tn. 原理，信念；道德原则，行为规范"]
+  },
+  {
+    "name": "profile",
+    "trans": ["['prəʊfaɪl]\tn. 侧面（像）；轮廓；姿态 vt. 写简介；显示（某物）的轮廓"]
+  },
+{
+"name": "profit",
+"trans": ["['prɒfɪt]\tn. 利润；好处，裨益 vi. 获益 vt. 有利于"]
+},
+{
+"name": "proper",
+"trans": ["['prɒpə]\ta. 适合的；正确的；合乎体统的；固有的；有礼貌的"]
+},
+{
+"name": "pursue",
+"trans": ["[pə'sjuː]\tvt./vi. 追求，追赶，追踪 vt. 继续，从事"]
+},
+{
+"name": "rear",
+"trans": ["[rɪə]\tn. 后面，背后，后方 vt. 饲养，抚养；栽培；举起"]
+},
+{
+"name": "recall",
+"trans": ["[rɪ'kɔːl]\tvt./vi. 回忆，回想；撤消，收回 n. 记忆力；召回"]
+},
+{
+"name": "recognize",
+"trans": ["[rekə'gnaɪz]\tvt./vi. 承认 vt. 认出；意识到"]
+},
+{
+"name": "recommend",
+"trans": ["[rekə'mend]\tvt./vi. 推荐，介绍 vt. 劝告，建议"]
+},
+{
+"name": "reform",
+"trans": ["[rɪ'fɔːm]\tvt./n. 改革，改造，改良 vt./vi. 改正"]
+},
+{
+"name": "rely",
+"trans": ["[rɪ'laɪ]\tvi. 依靠；信任，指望"]
+},
+{
+"name": "remind",
+"trans": ["[rɪ'maɪnd]\tvt. 提醒，使想起（类似的人、地方、事物等）"]
+},
+{
+"name": "respond",
+"trans": ["[rɪs'pɒnd]\tvi./vt. 回答，响应；反应灵敏，作出反应"]
+},
+{
+"name": "reward",
+"trans": ["[rɪ'wɔːd]\tn. 报酬，回报；赏金 vt. 酬劳；酬谢；奖励，奖赏"]
+},
+{
+"name": "sample",
+"trans": ["['sæmpl]\tn. 样品，实例；抽样检查；试用产品 vt. 取样，采样；试用，体验"]
+},
+{
+"name": "schedule",
+"trans": ["['skedʒuːl]\tn. 时间表，进度表 vt. 安排，预定"]
+},
+{
+"name": "screen",
+"trans": ["[skrɪːn]\tn. 屏幕；银幕，电影界；屏风；帘；遮蔽物；筛子"]
+},
+{
+"name": "setting",
+"trans": ["['setɪŋ]\tn. 安置；环境，背景；设置"]
+},
+{
+"name": "state",
+"trans": ["[steɪt]\tn. 状态，情况；国，州 vt. 陈述，说明；规定"]
+},
+{
+"name": "structure",
+"trans": ["['strʌktʃə]\tn. 构造；结构体，（尤指）建筑物 vt. 构造，建造；精心组织"]
+},
+{
+"name": "superior",
+"trans": ["[sjuː'pɪərɪə]\ta. 更好的；有优越感的，高傲的，卓越的；上级的 n. 上级；长者；高手"]
+},
+{
+"name": "suspect",
+"trans": ["[səs'pekt; 'sʌspekt]\tvi./vt. 猜想；怀疑；察觉；疑有 a. 不可信的，有违法嫌疑的 n. [s1spekt]嫌疑犯，可疑对象"]
+},
+{
+"name": "thrive",
+"trans": ["[ɵraɪv]\tvi. 兴旺，繁荣"]
+},
+{
+"name": "typical",
+"trans": ["['tɪpɪkəl]\ta. 典型的，有代表性的；一贯的；不出所料的"]
+},
+{
+"name": "unique",
+"trans": ["[juː'nɪːk]\ta. 唯一的；罕见的"]
+},
+{
+"name": "utility",
+"trans": ["[ju:'tɪlətɪ]\tn. 实用；效用；公共设施；功用"]
+},
+{
+"name": "volunteer",
+"trans": ["[vɒlən'tɪə(ɒ)]\tn./vt./vi. 志愿(者，兵)；自愿(提供)"]
+},
+{
+"name": "vote",
+"trans": ["[vəʊt]\tn. 投票，表决；选票，选票数 vt./vi. 投票，表决"]
+},
+{
+"name": "academy",
+"trans": ["[ə'kædəmi]\tn.私立中学；专科院校"]
+},
+{
+"name": "accent",
+"trans": ["['æksənt]\tn.口音，腔调；重音"]
+},
+{
+"name": "admit",
+"trans": ["[əd'mit]\tvt.承认；准许…进入"]
+},
+{
+"name": "affair",
+"trans": ["[ə'fɛə]\tn.事情，事件；事务"]
+},
+{
+"name": "agent",
+"trans": ["['eidʒənt]\tn.代理人，代理商"]
+},
+{
+"name": "alcohol",
+"trans": ["['ælkəhɔl]\tn.酒精，乙醇"]
+},
+{
+"name": "ancient",
+"trans": ["['einʃənt]\ta.古代的，古老的"]
+},
+{
+"name": "architecture",
+"trans": ["['ɑ:kitektʃə]\tn.建筑学；建筑式样"]
+},
+{
+"name": "athlete",
+"trans": ["['æθli:t]\tn.运动员；田径运动员"]
+},
+{
+"name": "atmosphere",
+"trans": ["['ætməsfiə]\tn.大气；空气；气氛"]
+},
+{
+"name": "attempt",
+"trans": ["[ə'tempt]\tvt.尝试，试图 n.企图"]
+},
+{
+"name": "attend",
+"trans": ["[ə'tend]\tvt.出席；照顾，护理"]
+},
+{
+"name": "bacteria",
+"trans": ["[bæk'tiəriə]\tn.细菌"]
+},
+{
+"name": "basis",
+"trans": ["['beisis]\tn.基础，根据"]
+},
+{
+"name": "battle",
+"trans": ["['bætl]\tn.战役；斗争 vi.作战"]
+},
+{
+"name": "behave",
+"trans": ["[bi'heiv]\tvi.表现，举止；运转"]
+},
+{
+"name": "biology",
+"trans": ["[bai'ɔlədʒi]\tn.生物学；生态学"]
+},
+{
+"name": "block",
+"trans": ["[blɔk]\tn.街区 vt.堵塞，拦阻"]
+},
+{
+"name": "bond",
+"trans": ["[bɔnd]\tn.联结，联系；公债"]
+},
+{
+"name": "bottle",
+"trans": ["['bɔtl]\tn.瓶，酒瓶；一瓶"]
+},
+{
+"name": "breast",
+"trans": ["[brest]\tn.乳房；胸脯，胸膛"]
+},
+{
+"name": "bright",
+"trans": ["[brait]\ta.明亮的；聪明的"]
+},
+{
+"name": "bulb",
+"trans": ["[bʌlb]\tn.电灯泡；球状物"]
+},
+{
+"name": "burden",
+"trans": ["['bə:dn]\tn.担子，重担；装载量"]
+},
+{
+"name": "bureau",
+"trans": ["[bjuə'rəu,'bjuərəu]\tn.局，司，处；社，所"]
+},
+{
+"name": "cancer",
+"trans": ["['kænsə]\tn.癌，癌症，肿瘤"]
+},
+{
+"name": "capture",
+"trans": ["['kæptʃə]\tvt.捕获，俘获；夺得"]
+},
+{
+"name": "carbon",
+"trans": ["['kɑ:bən]\tn.碳"]
+},
+{
+"name": "cash",
+"trans": ["[kæʃ]\tn.现金，现款"]
+},
+{
+"name": "catalog",
+"trans": ["['kætəlɔɡ]\tn.目录，目录册"]
+},
+{
+"name": "cave",
+"trans": ["[keiv]\tn.山洞，洞穴，窑洞"]
+},
+{
+"name": "celebrate",
+"trans": ["['selibreit]\tvt.庆祝；歌颂，赞美"]
+},
+{
+"name": "century",
+"trans": ["['sentʃuri,-tʃəri]\tn.世纪，百年"]
+},
+{
+"name": "certain",
+"trans": ["['sə:tən]\ta.确实的；肯定的"]
+},
+{
+"name": "chain",
+"trans": ["[tʃein]\tn.链，链条，项圈"]
+},
+{
+"name": "channel",
+"trans": ["['tʃænl]\tn.海峡；渠道；频道"]
+},
+{
+"name": "character",
+"trans": ["['kæriktə]\tn.性格；特性；角色"]
+},
+{
+"name": "chief",
+"trans": ["[tʃi:f]\ta.主要的；首席的"]
+},
+{
+"name": "coal",
+"trans": ["[kəul]\tn.煤，煤块"]
+},
+{
+"name": "coast",
+"trans": ["[kəust]\tn.海岸，海滨(地区)"]
+},
+{
+"name": "colleague",
+"trans": ["['kɔli:ɡ]\tn.同事，同僚"]
+},
+{
+"name": "collective",
+"trans": ["[kə'lektiv]\ta.集体的；集合性的"]
+},
+{
+"name": "column",
+"trans": ["['kɔləm]\tn.柱，支柱，圆柱"]
+},
+{
+"name": "committee",
+"trans": ["[kə'miti]\tn.委员会；全体委员"]
+},
+{
+"name": "concert",
+"trans": ["['kɔnsət]\tn.音乐会，演奏会"]
+},
+{
+"name": "conference",
+"trans": ["['kɔnfərəns]\tn.会议，讨论会"]
+},
+{
+"name": "continent",
+"trans": ["['kɔntinənt]\tn.大陆；陆地；洲"]
+},
+{
+"name": "continue",
+"trans": ["[kən'tinju:]\tvt.继续，连续；延伸"]
+},
+{
+"name": "contract",
+"trans": ["['kɔntrækt]\tn.契约，合同；婚约"]
+},
+{
+"name": "core",
+"trans": ["[kɔ:]\tn.果实的心，核心"]
+},
+{
+"name": "criticize",
+"trans": ["['kritisaiz]\tvt.批评；评论；非难"]
+},
+{
+"name": "cure",
+"trans": ["[kjuə]\tvt.医治；消除 n.治愈"]
+},
+{
+"name": "customer",
+"trans": ["['kʌstəmə]\tn.顾客，主顾"]
+},
+{
+"name": "debt",
+"trans": ["[det]\tn.债，债务，欠债"]
+},
+{
+"name": "decade",
+"trans": ["['dekeid]\tn.十年，十年期"]
+},
+{
+"name": "deck",
+"trans": ["[dek]\tn.甲板；舱面；层面"]
+},
+{
+"name": "department",
+"trans": ["[di'pɑ:tmənt]\tn.部，司，局，处，系"]
+},
+{
+"name": "desire",
+"trans": ["[di'zaiə]\tvt.相望；要求 n.愿望"]
+},
+{
+"name": "detect",
+"trans": ["[di'tekt]\tvt.察觉，发觉；侦察"]
+},
+{
+"name": "dip",
+"trans": ["[dip]\tvt.浸，蘸 vi.浸一浸"]
+},
+{
+"name": "dozen",
+"trans": ["['dʌzn]\tn.一打，十二个"]
+},
+{
+"name": "dynamic",
+"trans": ["[dai'næmik]\ta.有活力的；动力的"]
+},
+{
+"name": "effort",
+"trans": ["['efət]\tn.努力；努力的成果"]
+},
+{
+"name": "electricity",
+"trans": ["[ɪlek'trɪsɪtɪ]\tn.电，电学；电流"]
+},
+{
+"name": "elementary",
+"trans": ["[,eli'mentəri]\ta.基本的；初级的"]
+},
+{
+"name": "engineer",
+"trans": ["[,endʒi'niə]\tn.工程师，技师"]
+},
+{
+"name": "enthusiasm",
+"trans": ["[in'θju:ziæzəm]\tn.热情，热心，热忱"]
+},
+{
+"name": "envelope",
+"trans": ["['enviləup]\tn.信封；封套；封皮"]
+},
+{
+"name": "essay",
+"trans": ["['esei,'esi]\tn.短文，散文，小品文"]
+},
+{
+"name": "examine",
+"trans": ["[iɡ'zæmin]\tvt.检查，仔细观察"]
+},
+{
+"name": "excellent",
+"trans": ["['eksələnt]\ta.优秀的，杰出的"]
+},
+{
+"name": "exercise",
+"trans": ["['eksəsaiz]\tn.锻炼，训练 vi.练习"]
+},
+{
+"name": "exist",
+"trans": ["[iɡ'zist]\tvi.存在；生存，生活"]
+},
+{
+"name": "factory",
+"trans": ["['fæktəri]\tn.工厂，制造厂"]
+},
+{
+"name": "faculty",
+"trans": ["['fækəlti]\tn.才能，能力；系，科"]
+},
+{
+"name": "fancy",
+"trans": ["['fænsi]\tn.想象力；设想；爱好"]
+},
+{
+"name": "fatigue",
+"trans": ["[fə'ti:ɡ]\tn.疲劳，劳累"]
+},
+{
+"name": "federal",
+"trans": ["['fedərəl]\ta.联邦的；联盟的"]
+},
+{
+"name": "fee",
+"trans": ["[fi:]\tn.费，酬金；赏金"]
+},
+{
+"name": "feedback",
+"trans": ["['fi:dbæk]\tn.回授，反馈，反应"]
+},
+{
+"name": "fierce",
+"trans": ["[fiəs]\ta.凶猛的，狂热的"]
+},
+{
+"name": "flat",
+"trans": ["[flæt]\ta.平的，扁平的"]
+},
+{
+"name": "flu",
+"trans": ["[flu:]\tn.流行性感冒"]
+},
+{
+"name": "formula",
+"trans": ["['fɔ:mjulə]\tn.公式，式"]
+},
+{
+"name": "foundation",
+"trans": ["[faun'deiʃən]\tn.基础；地基；基金"]
+},
+{
+"name": "frame",
+"trans": ["[freim]\tn.框架，框子；构架"]
+},
+{
+"name": "frequent",
+"trans": ["['fri:kwənt]\ta.时常发生的；经常的"]
+},
+{
+"name": "further",
+"trans": ["['fə:ðə]\tad.更远地 a.更远的"]
+},
+{
+"name": "gasoline",
+"trans": ["['ɡæsəli:n]\tn.(美)汽油"]
+},
+{
+"name": "gentleman",
+"trans": ["['dʒentlmən]\tn.绅士；有教养的人"]
+},
+{
+"name": "greenhouse",
+"trans": ["['ɡri:nhaus]\tn.温室，玻璃暖房"]
+},
+{
+"name": "harvest",
+"trans": ["['hɑ:vist]\tn.收获，收成 vt.收割"]
+},
+{
+"name": "honour",
+"trans": ["['ɔnə]\tn.光荣；尊敬，敬意"]
+},
+{
+"name": "hundred",
+"trans": ["['hʌndrəd,'-drid]\tnum.百，百个 n.许多"]
+},
+{
+"name": "hunt",
+"trans": ["[hʌnt]\tn.打猎；搜寻 vt.追猎"]
+},
+{
+"name": "imagine",
+"trans": ["[i'mædʒin]\tvt.想象，设想；料想"]
+},
+{
+"name": "improve",
+"trans": ["[im'pru:v]\tvt.使更好 vi.改善"]
+},
+{
+"name": "indeed",
+"trans": ["[in'di:d]\tad.真正地；确实"]
+},
+{
+"name": "infant",
+"trans": ["['infənt]\tn.婴儿 a.婴儿的"]
+},
+{
+"name": "insect",
+"trans": ["['insekt]\tn.昆虫，虫"]
+},
+{
+"name": "instance",
+"trans": ["['instəns]\tn.例子，实例，事例"]
+},
+{
+"name": "intend",
+"trans": ["[in'tend]\tvt.想要，打算；意指"]
+},
+{
+"name": "interview",
+"trans": ["['intəvju:]\tn.接见；会见；面谈"]
+},
+{
+"name": "justice",
+"trans": ["['dʒʌstis]\tn.正义，公正；司法"]
+},
+{
+"name": "laboratory",
+"trans": ["[lə'bɔrətəri,'læbərətəri]\tn.实验室，研究室"]
+},
+{
+"name": "ladder",
+"trans": ["['lædə]\tn.梯子，梯状物"]
+},
+{
+"name": "lamb",
+"trans": ["[læm]\tn.羔羊，小羊；羔羊肉"]
+},
+{
+"name": "lawyer",
+"trans": ["['lɔ:jə]\tn.律师；法学家"]
+},
+{
+"name": "leaf",
+"trans": ["[li:f]\tn.叶，叶子"]
+},
+{
+"name": "lean",
+"trans": ["[li:n]\tvi.倾斜，屈身；靠"]
+},
+{
+"name": "leisure",
+"trans": ["['leʒə;'li:ʒə]\tn.空闲时间；悠闲"]
+},
+{
+"name": "male",
+"trans": ["[meil]\ta.男的，雄的 n.男子"]
+},
+{
+"name": "marine",
+"trans": ["[mə'ri:n]\ta.海的；海上的"]
+},
+{
+"name": "mass",
+"trans": ["[mæs]\tn.众多；团；群众"]
+},
+{
+"name": "medical",
+"trans": ["['medikəl]\ta.医学的；内科的"]
+},
+{
+"name": "medicine",
+"trans": ["['medsin,-disin]\tn.内服药；医学"]
+},
+{
+"name": "mental",
+"trans": ["['mentl]\ta.智力的；精神的"]
+},
+{
+"name": "mention",
+"trans": ["['menʃən]\tvt.&n.提及，说起"]
+},
+{
+"name": "merchant",
+"trans": ["['mə:tʃənt]\tn.商人；零售商"]
+},
+{
+"name": "mere",
+"trans": ["[miə]\ta.仅仅的；纯粹的"]
+},
+{
+"name": "metal",
+"trans": ["['metl]\tn.金属，金属制品"]
+},
+{
+"name": "military",
+"trans": ["['militəri]\ta.军事的；军人的"]
+},
+{
+"name": "minister",
+"trans": ["['ministə]\tn.部长，大臣；公使"]
+},
+{
+"name": "moderate",
+"trans": ["['mɔdərit]\ta.温和的；有节制的"]
+},
+{
+"name": "monument",
+"trans": ["['mɔnjumənt]\tn.纪念碑；纪念馆"]
+},
+{
+"name": "moral",
+"trans": ["['mɔrəl]\ta.道德的；合乎道德的"]
+},
+{
+"name": "motor",
+"trans": ["['məutə]\tn.发动机；机动车"]
+},
+{
+"name": "nest",
+"trans": ["[nest]\tn.巢，窝，穴"]
+},
+{
+"name": "network",
+"trans": ["['netwə:k]\tn.网状物；网络"]
+},
+{
+"name": "nowadays",
+"trans": ["['nauədeiz]\tad.现今，现在"]
+},
+{
+"name": "nuclear",
+"trans": ["['nju:kliə]\ta.原子核的；核心的"]
+},
+{
+"name": "nut",
+"trans": ["[nʌt]\tn.坚果，干果；螺母"]
+},
+{
+"name": "officer",
+"trans": ["['ɔfisə]\tn.官员；干事；军官"]
+},
+{
+"name": "official",
+"trans": ["[ə'fiʃəl]\ta.官员的；官方的"]
+},
+{
+"name": "organic",
+"trans": ["[ɔ:'ɡænik]\ta.有机体的；器官的"]
+},
+{
+"name": "parliament",
+"trans": ["['pɑ:ləmənt]\tn.议会，国会"]
+},
+{
+"name": "partly",
+"trans": ["['pɑ:tlɪ]\tad.部分地，不完全地"]
+},
+{
+"name": "passenger",
+"trans": ["['pæsindʒə]\tn.乘客，旅客，过路人"]
+},
+{
+"name": "path",
+"trans": ["[pɑ:θ]\tn.路，小道；道路"]
+},
+{
+"name": "pave",
+"trans": ["[peiv]\tvt.铺，筑(路等)"]
+},
+{
+"name": "persuade",
+"trans": ["[pə'sweid]\tvt.说服 vi.被说服"]
+},
+{
+"name": "petroleum",
+"trans": ["[pi'trəuliəm]\tn.石油"]
+},
+{
+"name": "phase",
+"trans": ["[feiz]\tn.阶段；方面；相位"]
+},
+{
+"name": "philosophy",
+"trans": ["[fi'lɔsəfi]\tn.哲学；哲理；人生观"]
+},
+{
+"name": "physician",
+"trans": ["[fi'ziʃən]\tn.医生，内科医生"]
+},
+{
+"name": "physics",
+"trans": ["['fiziks]\tn.物理学"]
+},
+{
+"name": "pill",
+"trans": ["[pil]\tn.药丸，丸剂"]
+},
+{
+"name": "pioneer",
+"trans": ["[paiə'niə]\tn.拓荒者；先驱者"]
+},
+{
+"name": "pit",
+"trans": ["[pit]\tn.坑，地坑；煤矿"]
+},
+{
+"name": "plane",
+"trans": ["[plein]\tn.平面；飞机"]
+},
+{
+"name": "planet",
+"trans": ["['plænɪt]\tn.行星"]
+},
+{
+"name": "plenty",
+"trans": ["['plenti]\tn.丰富，充足，大量"]
+},
+{
+"name": "pond",
+"trans": ["[pɔnd]\tn.池塘"]
+},
+{
+"name": "president",
+"trans": ["['prezidənt]\tn.总统；校长；会长"]
+},
+{
+"name": "pretty",
+"trans": ["['priti]\ta.漂亮的，标致的"]
+},
+{
+"name": "private",
+"trans": ["['praivit]\ta.私人的；私下的"]
+},
+{
+"name": "quarter",
+"trans": ["['kwɔ:tə]\tn.四分之一；一刻钟"]
+},
+{
+"name": "record",
+"trans": ["['rekɔ:d]\tn.记录；履历 vt.记录"]
+},
+{
+"name": "regarding",
+"trans": ["[ri'ɡɑ:diŋ]\tprep.关于"]
+},
+{
+"name": "region",
+"trans": ["['ri:dʒən]\tn.地区，地带；领域"]
+},
+{
+"name": "register",
+"trans": ["['redʒistə]\tn.&vt.登记，注册"]
+},
+{
+"name": "relative",
+"trans": ["['relətiv]\ta.有关系的；相对的"]
+},
+{
+"name": "reluctant",
+"trans": ["[ri'lʌktənt]\ta.不愿的，勉强的"]
+},
+{
+"name": "return",
+"trans": ["[ri'tə:n]\tvi.&n.回来，返回"]
+},
+{
+"name": "revolution",
+"trans": ["[,revə'lu:ʃən]\tn.革命；旋转，绕转"]
+},
+{
+"name": "route",
+"trans": ["[ru:t]\tn.路，路线，路程"]
+},
+{
+"name": "rubbish",
+"trans": ["['rʌbiʃ]\tn.垃圾，废物；废话"]
+},
+{
+"name": "rural",
+"trans": ["['rʊər(ə)l]\ta.农村的，田园的"]
+},
+{
+"name": "scholar",
+"trans": ["['skɔlə]\tn.学者(尤指文学方面)"]
+},
+{
+"name": "secondary",
+"trans": ["['sekəndəri]\ta.第二的；次要的"]
+},
+{
+"name": "serve",
+"trans": ["[sə:v]\tvt.为…服务；招待"]
+},
+{
+"name": "shed",
+"trans": ["[ʃed]\tvt.流出；散发；脱落"]
+},
+{
+"name": "signal",
+"trans": ["['siɡnl]\tn.信号 vi.发信号"]
+},
+{
+"name": "sort",
+"trans": ["[sɔ:t]\tn.种类；类别 vt.整理"]
+},
+{
+"name": "spread",
+"trans": ["[spred]\tvt.伸开；传播 n.传播"]
+},
+{
+"name": "staff",
+"trans": ["[stɑ:f]\tn.工作人员；参谋"]
+},
+{
+"name": "stage",
+"trans": ["[steidʒ]\tn.舞台；戏剧；阶段"]
+},
+{
+"name": "stale",
+"trans": ["[steil]\tn.陈腐的；走了气的"]
+},
+{
+"name": "standard",
+"trans": ["['stændəd]\tn.标准 a.标准的"]
+},
+{
+"name": "standpoint",
+"trans": ["['stændpɔɪnt]\tn.立场，观点"]
+},
+{
+"name": "steam",
+"trans": ["[sti:m]\tn.蒸汽 vi.蒸发 vt.蒸"]
+},
+{
+"name": "strain",
+"trans": ["[strein]\tvt.拉紧 vi.尽力"]
+},
+{
+"name": "strategy",
+"trans": ["['strætidʒi]\tn.战略；策略"]
+},
+{
+"name": "struggle",
+"trans": ["['strʌɡl]\tn.&vi.斗争，奋斗"]
+},
+{
+"name": "tablet",
+"trans": ["['tæblit]\tn.碑，匾；药片"]
+},
+{
+"name": "tank",
+"trans": ["[tæŋk]\tn.坦克；大容器，槽"]
+},
+{
+"name": "tap",
+"trans": ["[tæp]\tvt.&vi.&n.轻叩"]
+},
+{
+"name": "target",
+"trans": ["['tɑ:ɡit]\tn.靶，标的；目标"]
+},
+{
+"name": "technical",
+"trans": ["['teknikəl]\ta.技术的，工艺的"]
+},
+{
+"name": "technique",
+"trans": ["[tek'ni:k]\tn.技术，技巧；技能"]
+},
+{
+"name": "therefore",
+"trans": ["['ðɛəfɔ:]\tad.因此，所以"]
+},
+{
+"name": "threat",
+"trans": ["[θret]\tn.威胁，恐吓，凶兆"]
+},
+{
+"name": "throughout",
+"trans": ["[θru(:)'aut]\tprep.遍及 ad.到处"]
+},
+{
+"name": "tiny",
+"trans": ["['taini]\ta.微小的，极小的"]
+},
+{
+"name": "tongue",
+"trans": ["[tʌŋ]\tn.舌，舌头；语言"]
+},
+{
+"name": "translate",
+"trans": ["[træns'leit]\tvt.翻译，译 vt.翻译"]
+},
+{
+"name": "undergraduate",
+"trans": ["[,ʌndə'ɡrædjuit]\tn.大学肆业生"]
+},
+{
+"name": "underground",
+"trans": ["['ʌndəɡraund]\ta.地下的；秘密的"]
+},
+{
+"name": "union",
+"trans": ["['ju:njən]\tn.联合；团结；协会"]
+},
+{
+"name": "universe",
+"trans": ["['ju:nivə:s]\tn.宇宙，世界"]
+},
+{
+"name": "upward",
+"trans": ["['ʌpwəd]\ta.向上的，上升的"]
+},
+{
+"name": "visual",
+"trans": ["['vizjuəl]\ta.看的；看得见的"]
+},
+{
+"name": "volume",
+"trans": ["['vɔlju:m]\tn.卷，册；容积；音量"]
+},
+{
+"name": "widespread",
+"trans": ["['waɪdspred,-'spred]\ta.分布广的，普遍的"]
+},
+{
+"name": "witness",
+"trans": ["['witnis]\tn.证据；证人 vt.目击"]
+},
+{
+"name": "youth",
+"trans": ["[ju:θ]\tn.青春；青年们；青年"]
+}
+]
